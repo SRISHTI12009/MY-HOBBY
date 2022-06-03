@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color:lightblue;
+}
+#home{
+    background-color:blue;
+    text-align:center;
+}
+.menu{
+  font-family:monospace;
+    text-shadow:2px 2px black;
+}
+p{
+    max-width:450px;
+    margin:25px auto;
+    font-size:17px;
+    line-height:1.3;
+    
+}
